@@ -5,7 +5,7 @@ N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 */
 
 
-Console.WriteLine("Введите число N");
+Console.WriteLine("Ввдите чило: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 PrintNumbersToN(number);
